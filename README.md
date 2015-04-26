@@ -7,6 +7,7 @@ under a subdirectory "test" and the training data set is under another subdireco
 This script produces a new tidy data set "new_data.txt" with the average of each variable for each activity and each subject.
 
 This script works generally as follows:
+
 1 Remember the current working directory
 
 2 Reading the train data
